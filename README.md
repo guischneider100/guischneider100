@@ -21,8 +21,8 @@
 
 <h3>📋 Developer Status </h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guischneider100&show_icons=true&theme=highcontrast&card_width=430" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guischneider100&layout=compact&theme=highcontrast&card_width=430" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=guischneider100&show_icons=true&theme=highcontrast&card_width=430" height="150em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guischneider100&layout=compact&theme=highcontrast&card_width=430" height="150em"/>
 </p>
 <p align="right"> ⏭️ Press any key to continue... </p>
 <h2></h2>
