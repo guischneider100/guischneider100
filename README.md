@@ -7,7 +7,7 @@
 <hr />
 <br>
 
-<p align="center">"That's not a real game, it's just my Git Hub profile, but you still can have fun. Grab your sword, shield and courage to face all the atrocities that Guilherme has created coding"</p>
+<p align="center">"This isn’t a real game, it's just my GitHub profile, but you still can have fun! Grab your sword, shield and courage to face all the coding atrocities that Guilherme has created"</p>
 <p align="right"> ⏭️ Press any key to continue... </p>
 <h2></h2>
 
