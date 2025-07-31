@@ -15,7 +15,7 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;<b>🏷️ Name:</b> Guilherme Felipe Schneider</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;<b>⚔️ Class:</b> Full Stack</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;<b>📜 Programming Spells: </b> Java, PHP, JavaScript, TypeScript</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;<b>💎 Binary Artifacts: </b> Spring Framework, Android, Ionic </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;<b>💎 Binary Artifacts: </b> Spring Framework, React Native, Android, Ionic </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;<b>💎 Data’s Chests: </b> PostgreSQL, MySQL, Firebird </p>
 <p align="right"> ⏭️ Press any key to continue... </p>
 <h2></h2>
